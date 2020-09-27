@@ -1,5 +1,5 @@
 
-# Payer Starter NPC [WIP]
+# Player Starter NPC [WIP]
 
 ## Description
 This NPC will load bags, gear, gems and enchants for both PvE and PvP based on class and spec on player.
