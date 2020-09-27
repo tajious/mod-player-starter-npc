@@ -2,7 +2,15 @@
 # Payer Starter NPC [WIP]
 
 ## Description
-This NPC will load gear, gems and enchants for both PvE and PvP based on class and spec on player.
+This NPC will load bags, gear, gems and enchants for both PvE and PvP based on class and spec on player.
+
+
+## TODO
+
+- PvP gossip options
+- Remove gear / glyph functionality
+- Add bags / gear / gem / glyph functionality
+- Implement functionality for each class / spec / game type
 
 
 ### CREDITS
